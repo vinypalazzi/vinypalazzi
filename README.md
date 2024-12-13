@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:1a1a1a&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20Vin%C3%ADcius%20Palazzi!&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,100:444444&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20Vin%C3%ADcius%20Palazzi!&fontSize=35&fontColor=ffffff)
 
 # 👋 Sobre Mim
 
-Sou um entusiasta da programação em constante aprendizado, buscando sempre aprimorar minhas habilidades e explorar novas tecnologias. Atualmente, foco em exercícios práticos para consolidar conhecimentos.
+Sou um entusiasta da programação em constante aprendizado, buscando sempre aprimorar minhas habilidades e explorar novas tecnologias. Atualmente, foco em exercícios práticos para aprimorar meus conhecimentos.
 
 ---
 
@@ -45,4 +45,4 @@ Sou um entusiasta da programação em constante aprendizado, buscando sempre apr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-palazzi-aba809337/)
 [![Email](https://img.shields.io/badge/Email-vparreira10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vparreira10@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:1a1a1a&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:2f2f2f&height=150&section=footer)

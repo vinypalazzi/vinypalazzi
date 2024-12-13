@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20Vinicius%20Palazzi!&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20Vinícius%20Palazzi!&fontSize=35&fontColor=ffffff)
 
 # 👋 Sobre Mim
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Vinicius Palazzi! 👋
 
-<!--
-**vinypalazzi/vinypalazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Programação** | 🚀 **Explorando novas linguagens e tecnologias**  
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará repositórios que demonstram meu aprendizado e evolução em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias e Ferramentas
+- **Linguagens**: Java
+- **Ferramentas**: Git, IntelliJ IDEA
+
+---
+
+## 🌟 Projetos em Destaque
+- [**Training**](https://github.com/vinypalazzi/Training): Repositório com exercícios de programação em Java.
+
+---
+
+## 📈 Objetivos Atuais
+- Expandir habilidades em Java.
+- Contribuir para projetos open-source.
+- Criar aplicações completas e robustas.
+
+---
+
+💬 Sinta-se à vontade para entrar em contato ou contribuir em meus repositórios!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/vin%C3%ADcius-palazzi-aba809337/) [![Email](https://img.shields.io/badge/Email-vparreira10%40gmail.com-red)](mailto:vparreira10@gmail.com)

@@ -30,7 +30,7 @@ Sou um entusiasta da programação em constante aprendizado, buscando sempre apr
 
 ## 📈 Objetivos Atuais
 
-- Aprender Python e JavaScript.
+- Aprofundar os conhecimentos em Java.
 - Contribuir para projetos open-source.
 - Desenvolver aplicações completas e robustas.
 

@@ -26,12 +26,6 @@ Sou um entusiasta da programação em constante aprendizado, buscando sempre apr
 
 ---
 
-## 🌟 Projetos em Destaque
-
-- [**Training**](https://github.com/vinypalazzi/Training): Repositório com exercícios de programação
-
----
-
 ## 📈 Objetivos Atuais
 
 - Aprofundar os conhecimentos em Java.
